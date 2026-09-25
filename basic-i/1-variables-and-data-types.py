@@ -24,7 +24,7 @@ Escribe en un comentario de línea lo que sucede.
 message = ("Hello world!")
 print(message)
 
-# Cuando introduces un nuevo valor para una misma variable el resultado que imprime el programa es este nuevo valor, sustituyendo al otro.
+# Cuando introduces un nuevo valor para la misma variable el resultado que imprime el programa es este nuevo valor, sustituyendo al otro.
 
 """
 --- Ejercicio 3 Tipos de datos---
