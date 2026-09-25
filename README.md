@@ -1,4 +1,5 @@
 # INTRODUCCIÓN A PYTHON
 
-(ES) A través de estos dos ejercicios (basics-py-i y basics-py-ii), los que estén empezando a programar con Python pueden dar sus primeros pasos (ejercicios resueltos).
-(EN) These two exercises are specially designed for those who are beginners in Python (already solved).
+(ES) Estos dos ejercicios (basics-py-i y basics-py-ii) son ideales para principiantes en Python (ejercicios resueltos).
+
+(EN) These two exercises (basics-py-i & basics-py-ii) are specially designed for those who are beginners in Python (already solved).
